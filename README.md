@@ -4,10 +4,9 @@
  <img alt="It's me" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiFwKbUlj6ZAYtan2UNkgdq6hgeKmxgIfltw&usqp=CAU">
 </picture>
 
-
-
-
 ### Info
+
+<!-- TO DO: add more details about me later -->
 
 - Jeune diplômé de l'ENSEA ( École Nationale Supérieure de l’Électronique et de ses Applications), avec une spécialisation dans l'intelligence artificielle.
 - J'occupe actuellement un poste de Data Engineer chez Décision Network, ou je travaille en interne afin de développer sur AWS un calculateur distribué, managé et scalable pour le traitement de code en SAS.
