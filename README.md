@@ -13,9 +13,9 @@
 - J'occupe actuellement un poste de Data Engineer chez Décision Network, ou je travaille en interne afin de développer sur AWS un calculateur distribué, managé et scalable pour le traitement de code en SAS.
 
 <details open>
-<summary>My top THINGS-TO-RANK</summary>
+<summary>My top Languages</summary>
 
-| Rank | Langages |
+| Rank | Languages |
 |-----:|---------------|
 |     1|French|
 |     2|German|
